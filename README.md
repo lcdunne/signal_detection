@@ -1,1 +1,3 @@
 # Code to fit theoretical models to ROC data
+
+`roc_models.py` contains the main code. First you specify the input data which should be the counts of responses across different levels of a "decision" scale. Then you instantiate a particular model object like `DualProcess()` or `HighThreshold()`. After adding the data using the `.add_data()` method you can call `.optifit()` which uses `Scipy.optimize.minimize()` on the given model's parameters (e.g. 'd', 'R') to find their best fitting values (according to the sum of $G^2$). By running multiple models you cacn compare their individual fits to see which model best describes the data.
