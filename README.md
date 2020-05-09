@@ -13,7 +13,7 @@ By running multiple models you cacn compare their individual fits to see which m
 
 
 #### Note
-This code is my Python implementation of an excel file (which does the same thing) that was first written by my supervisor Bertram Opitz. 
+My supervisor Bertram Opitz first wrote these models in Excel, based on the recognition memory literature (e.g. Yonelinas et al., 1996). I decided to convert this into a Python implementation that can potentially be built upon. 
 
 ### References
 Byrne, J. H. (2008). Learning and memory: A comprehensive reference. Amsterdam: Elsevier.
