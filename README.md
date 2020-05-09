@@ -10,3 +10,8 @@ Steps for using this:
 5. Call `.plot()` to see the results.
 
 By running multiple models you cacn compare their individual fits to see which model best describes the data. 
+
+### References
+Byrne, J. H. (2008). Learning and memory: A comprehensive reference. Amsterdam: Elsevier.
+
+Yonelinas AP, Dobbins I, Szymanski MD, Dhaliwal HS, King L. (1996). Signal-detection, threshold, and dual-process models of recognition memory: ROCs and conscious recollection. Conscious Cogn. 5:418–78
