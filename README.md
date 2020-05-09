@@ -11,6 +11,10 @@ Steps for using this:
 
 By running multiple models you cacn compare their individual fits to see which model best describes the data. 
 
+
+#### Note
+This code is my Python implementation of an excel file (which does the same thing) that was first written by my supervisor Bertram Opitz. 
+
 ### References
 Byrne, J. H. (2008). Learning and memory: A comprehensive reference. Amsterdam: Elsevier.
 
