@@ -6,7 +6,7 @@ Steps for using this:
 1. Specify the input data which should be the counts of responses across different levels of a "decision" scale. 
 2. Instantiate a particular model object or objects like `DualProcess()` or `HighThreshold()`. 
 3. Add the data using the `.add_data()` method to add the signal and noise data.
-4. Call the `.optifit()` method: this uses `Scipy.optimize.minimize()` on the given model's parameters (e.g. 'd', 'R') to find their best fitting values (according to the sum of <sup>G^2</sup>).
+4. Call the `.optifit()` method: this uses `Scipy.optimize.minimize()` on the given model's parameters (e.g. 'd', 'R') to find their best fitting values (according to the sum of G<sup>2</sup>).
 5. Call `.plot()` to see the results.
 
 By running multiple models you cacn compare their individual fits to see which model best describes the data. 
