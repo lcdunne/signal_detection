@@ -16,4 +16,6 @@ By running multiple models you cacn compare their individual fits to see which m
 My supervisor Bertram Opitz first wrote these models in Excel, based on the recognition memory literature (e.g. Yonelinas et al., 1996). I decided to convert this into a Python implementation that can potentially be built upon. 
 
 ### References
+Stanislaw, H., Todorov, N. (1999). Calculation of signal detection theory measures. Behavior Research Methods, Instruments, & Computers 31, 137–149
+
 Yonelinas AP, Dobbins I, Szymanski MD, Dhaliwal HS, King L. (1996). Signal-detection, threshold, and dual-process models of recognition memory: ROCs and conscious recollection. Conscious Cogn. 5:418–78
