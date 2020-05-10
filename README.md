@@ -13,7 +13,7 @@ By running multiple models you cacn compare their individual fits to see which m
 
 
 #### Note
-My supervisor Bertram Opitz first wrote these models in Excel, based on the recognition memory literature (e.g. Yonelinas et al., 1996).
+My supervisor Bertram Opitz first wrote these models in Excel based on the recognition memory literature (e.g. Yonelinas et al., 1996).
 
 ### References
 Stanislaw, H., Todorov, N. (1999). Calculation of signal detection theory measures. Behavior Research Methods, Instruments, & Computers 31, 137–149
